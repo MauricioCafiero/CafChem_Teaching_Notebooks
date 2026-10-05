@@ -2,8 +2,6 @@
 
 Colab notebooks for chemistry and AI teaching courses.
 
-## CH3CO1/CH4PA1: Week 1 - a simple agent
-
 ## CH3CO1/CH4PA1: Python catch-up
 
 [notebooks/PyCatchUp_CafChem.ipynb](notebooks/PyCatchUp_CafChem.ipynb)
