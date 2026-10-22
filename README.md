@@ -18,4 +18,4 @@ Colab notebooks for chemistry and AI teaching courses.
 
 ## CH3CO1/CH4PA1: Mini Project 1 - Dataset
 
-[project_molecules.txt](Mini Project 1 Dataset)
+[Mini Project 1 Dataset](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/project_molecules.txt)
