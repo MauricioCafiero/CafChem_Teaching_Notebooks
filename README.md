@@ -23,3 +23,5 @@ Colab notebooks for chemistry and AI teaching courses.
 ## CH3CO1/CH4PA1: Week 5 - Featurizing and Machine Learning
 
 [notebooks/Featurizing_SKLearn_CafChem](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/notebooks/Featurizing_SKLearn_CafChem.ipynb)
+
+[dataset for week 5](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/delaney.csv)
