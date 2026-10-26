@@ -24,4 +24,6 @@ Colab notebooks for chemistry and AI teaching courses.
 
 [notebooks/Featurizing_SKLearn_CafChem](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/notebooks/Featurizing_SKLearn_CafChem.ipynb)
 
-[dataset for week 5](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/delaney.csv)
+## CH3PR1: Computational drug docking practical
+
+[notebooks/dockstring_dock_3d.ipynb](notebooks/dockstring_dock_3d.ipynb)
