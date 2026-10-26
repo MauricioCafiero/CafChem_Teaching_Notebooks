@@ -18,8 +18,14 @@ Each receptor comes as two files:
 
 ## Receptors
 
-The links below download the files directly; the folder itself is
-[notebooks/dock_receptors](dock_receptors).
+**Download all:** [dock_receptors.zip](https://raw.githubusercontent.com/MauricioCafiero/CafChem_Teaching_Notebooks/main/notebooks/dock_receptors.zip)
+(307 KB). Extract it next to the notebook and you get a `dock_receptors`
+folder with all twelve files - the ready-to-use layout for step 3. Browsers
+always download zip files rather than opening them.
+
+The direct links below open the file in the browser instead (GitHub shows
+text files inline); to save one, right-click the link and choose "Save link
+as..." (Cmd-click on a Mac).
 
 | Code | Protein | Structure | Search box |
 |------|---------|-----------|------------|
