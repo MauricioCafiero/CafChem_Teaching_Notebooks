@@ -2,6 +2,18 @@
 
 Colab notebooks for chemistry and AI teaching courses.
 
+## One-time environment setup (for CH3PR1, Anaconda on Windows)
+
+Download [environment.yml](environment.yml), then in the **Anaconda Prompt (anaconda3)** app, go to the folder you downloaded it to and run:
+
+```
+conda env create -f environment.yml
+conda activate cafchem
+jupyter lab
+```
+
+Then open the notebook and select the **cafchem** kernel. This is only needed once per computer - the notebook's install cell will then say "All packages are already installed" and skip pip entirely. On Colab, no setup is needed.
+
 ## CH3CO1/CH4PA1: Python catch-up
 
 [notebooks/PyCatchUp_CafChem.ipynb](notebooks/PyCatchUp_CafChem.ipynb)
@@ -23,6 +35,8 @@ Colab notebooks for chemistry and AI teaching courses.
 ## CH3CO1/CH4PA1: Week 5 - Featurizing and Machine Learning
 
 [notebooks/Featurizing_SKLearn_CafChem](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/notebooks/Featurizing_SKLearn_CafChem.ipynb)
+
+[dataset for week 5](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/delaney.csv)
 
 ## CH3PR1: Computational drug docking practical
 
