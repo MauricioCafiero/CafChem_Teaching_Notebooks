@@ -2,17 +2,11 @@
 
 Colab notebooks for chemistry and AI teaching courses.
 
-## Running the notebooks (Anaconda on Windows)
+## Running the notebooks
 
-One-time setup, in the **Anaconda Prompt (anaconda3)** app (Start menu, type "Anaconda Prompt"):
+The easiest option is **Colab**: click the "Open in Colab" badge at the top of a notebook - nothing to install.
 
-```
-conda install -c conda-forge rdkit meeko py3dmol gemmi scipy dimorphite-dl
-```
-
-This takes a few minutes (longer the first time - the default conda channel does not carry these packages, so they come from the community conda-forge collection). Then open Jupyter the usual way (Anaconda Navigator or `jupyter lab`), open a notebook, and run the cells from the top - the first cell will see the packages are installed and skip pip, so nothing stalls.
-
-Or use **Colab** instead: click the "Open in Colab" badge at the top of a notebook. Nothing to install - Colab has everything except a couple of small packages, which its first cell installs quickly.
+To run locally with Anaconda, just open the notebook and run the cells from the top: the first cell installs what is needed, once, and skips anything already present.
 
 ## CH3CO1/CH4PA1: Python catch-up
 
