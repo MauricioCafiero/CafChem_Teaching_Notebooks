@@ -19,3 +19,7 @@ Colab notebooks for chemistry and AI teaching courses.
 ## CH3CO1/CH4PA1: Mini Project 1 - Dataset
 
 [Mini Project 1 Dataset](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/project_molecules.txt)
+
+## CH3CO1/CH4PA1: Week 5 - Featurizing and Machine Learning
+
+[notebooks/Featurizing_SKLearn_CafChem](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/notebooks/Featurizing_SKLearn_CafChem.ipynb)
