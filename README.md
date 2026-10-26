@@ -2,17 +2,15 @@
 
 Colab notebooks for chemistry and AI teaching courses.
 
-## One-time environment setup (for CH3PR1, Anaconda on Windows)
+## Running the notebooks
 
-Download [environment.yml](environment.yml), then in the **Anaconda Prompt (anaconda3)** app, go to the folder you downloaded it to and run:
+The easy option is **Colab**: click the "Open in Colab" badge at the top of a notebook - no installation needed.
+
+Running locally: just run the notebook cells from the top - the first cell installs what's needed (once per environment; it can take a few minutes on Windows). If that install stalls on Windows/Anaconda, run this once in the **Anaconda Prompt (anaconda3)** and then open the notebook in the normal (base) environment:
 
 ```
-conda env create -f environment.yml
-conda activate cafchem
-jupyter lab
+conda install -c conda-forge rdkit meeko py3dmol gemmi scipy dimorphite-dl
 ```
-
-Then open the notebook and select the **cafchem** kernel. This is only needed once per computer - the notebook's install cell will then say "All packages are already installed" and skip pip entirely. On Colab, no setup is needed.
 
 ## CH3CO1/CH4PA1: Python catch-up
 
