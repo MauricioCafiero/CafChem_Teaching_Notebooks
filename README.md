@@ -2,12 +2,6 @@
 
 Colab notebooks for chemistry and AI teaching courses.
 
-## Running the notebooks
-
-The easiest option is **Colab**: click the "Open in Colab" badge at the top of a notebook - nothing to install.
-
-To run locally with Anaconda, just open the notebook and run the cells from the top: the first cell installs what is needed, once, and skips anything already present.
-
 ## CH3CO1/CH4PA1: Python catch-up
 
 [notebooks/PyCatchUp_CafChem.ipynb](notebooks/PyCatchUp_CafChem.ipynb)
