@@ -26,4 +26,6 @@ Colab notebooks for chemistry and AI teaching courses.
 
 ## CH3PR1: Computational drug docking practical
 
-[notebooks/dockstring_dock_3d.ipynb](notebooks/dockstring_dock_3d.ipynb)
+[notebooks/Vina_dock_3D_CafChem.ipynb](notebooks/Vina_dock_3D_CafChem.ipynb)
+
+[CH3PR1 docking receptors](notebooks/CH3PR1_receptors.md) - the six receptor files used by the notebook, as a separate page with direct download links. The notebook downloads them automatically; the page is for browsing.
