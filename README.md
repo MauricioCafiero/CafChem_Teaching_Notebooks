@@ -34,6 +34,10 @@ Colab notebooks for chemistry and AI teaching courses.
 
 [notebooks/LLM_Sampling_CafChem.ipynb](notebooks/LLM_Sampling_CafChem.ipynb)
 
+## CH3CO1/CH4PA1: Week 9 - Gradio
+
+[notebooks/Gradio_CafChem.ipynb](notebooks/Gradio_CafChem.ipynb)
+
 ## CH3PR1: Computational drug docking practical
 
 [notebooks/Vina_dock_3D_CafChem.ipynb](notebooks/Vina_dock_3D_CafChem.ipynb)
