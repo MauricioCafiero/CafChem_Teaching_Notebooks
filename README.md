@@ -26,6 +26,10 @@ Colab notebooks for chemistry and AI teaching courses.
 
 [dataset for week 5](https://github.com/MauricioCafiero/CafChem_Teaching_Notebooks/blob/main/delaney.csv)
 
+## CH3CO1/CH4PA1: Week 7 - Basic MLP
+
+[notebooks/BasicMLP_CafChem.ipynb](notebooks/BasicMLP_CafChem.ipynb)
+
 ## CH3PR1: Computational drug docking practical
 
 [notebooks/Vina_dock_3D_CafChem.ipynb](notebooks/Vina_dock_3D_CafChem.ipynb)
